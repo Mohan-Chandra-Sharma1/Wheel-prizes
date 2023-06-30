@@ -1,5 +1,28 @@
 # Getting Started with Create React App
 
+For this Prize wheel App -
+1- we use React.js Tech stack.
+2- "react-wheel-of-prizes" dependency.
+
+Below we attached some picture of this project for your referennce.
+
+
+![Screenshot_20230630_153525](https://github.com/Mohan-Chandra-Sharma1/Wheel-prizes/assets/120721761/43c8a8cf-3bfd-4cf9-a1a0-c96af139373e)
+
+
+
+![Screenshot_20230630_153544](https://github.com/Mohan-Chandra-Sharma1/Wheel-prizes/assets/120721761/863d1ea5-7d1d-4176-ab16-d24166a44f6c)
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
